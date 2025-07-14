@@ -1,3 +1,22 @@
-- 🌱 I’m currently learning ...
+# Matheus Mendes
 
-Olá! Meu nome é Matheus Mendes tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas apaixonado pela área de tecnologia desde sempre. Sempre quis entender como funcionam os programas, sites e jogos por trás e me apaixonei pelo back end. Tenho experiência em projetos acadêmicos com linguagens de programação como Python e Java, bem como em bancos de dados MySQL e Microsoft SQL Server, elaboração de dashboards com PowerBI e com clusters e notebooks em Databricks.
+Sou um profissional em transição para a área de **Ciência de Dados**, com experiências sólidas no setor industrial e participação em **projetos reais de análise de dados**. Atuo com foco em organização, visualização e interpretação de dados, buscando sempre transformar informação em **insight estratégico**.
+
+Minha trajetória inclui:
+- 📊 Formação em **Ciência de Dados pela Residência TIC**, com foco prático e progressivo (básico ao avançado)
+- 🏭 Experiência na **indústria**, onde desenvolvi resiliência, trabalho em equipe e responsabilidade com prazos
+- 💻 Desenvolvimento de projetos usando **Python, Pandas, Power BI, SQL e Excel**
+- 🧠 Forte base em **lógica de programação, estatística, EDA e Machine Learning básico**
+
+## 🚀 Tecnologias e Ferramentas que utilizo:
+
+- **Linguagens:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Ferramentas de visualização:** Power BI, Google Data Studio
+- **Ambientes:** Jupyter Notebook, VS Code, GitHub
+- **Outros:** Excel avançado, Git, GitHub, lógica de programação
+
+## 📫 Contato:
+
+- Email: **[joaomths74@outlook.com]**
+- LinkedIn: [[linkedin.com/in/seulink](https://linkedin.com/in/seulink](https://www.linkedin.com/in/matheus-mendes-85a96426b/))
+
