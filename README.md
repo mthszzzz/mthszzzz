@@ -11,9 +11,9 @@ Minha trajetória inclui:
 ## 🚀 Tecnologias e Ferramentas que utilizo:
 
 - **Linguagens:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-- **Ferramentas de visualização:** Power BI, Google Data Studio
+- **Ferramentas de visualização:** Power BI
 - **Ambientes:** Jupyter Notebook, VS Code, GitHub
-- **Outros:** Excel avançado, Git, GitHub, lógica de programação
+- **Outros:** Excel, Git, GitHub, lógica de programação
 
 ## 📫 Contato:
 
