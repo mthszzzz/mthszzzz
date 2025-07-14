@@ -18,5 +18,5 @@ Minha trajetória inclui:
 ## 📫 Contato:
 
 - Email: **[joaomths74@outlook.com]**
-- LinkedIn: [[linkedin.com/in/seulink](https://linkedin.com/in/seulink](https://www.linkedin.com/in/matheus-mendes-85a96426b/))
+- LinkedIn: [https://www.linkedin.com/in/matheus-mendes-85a96426b/](https://www.linkedin.com/in/matheus-mendes-85a96426b/)
 
